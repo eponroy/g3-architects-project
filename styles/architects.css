@@ -32,6 +32,9 @@
     font-weight: 600;
     border: none;
 }
+.btn-primary:hover{
+    background-color: cornflowerblue;
+}
 main {
     max-width: 1440px;
     margin: 0 auto;
@@ -104,7 +107,7 @@ main > section {
     color: rgba(255, 144, 14, 1);
 }
 
-/* fefeature-section-rrelated */
+/* feature-section-related */
 .features {
     gap: 140px;
     max-width: 1440px;
